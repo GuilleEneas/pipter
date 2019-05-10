@@ -29,8 +29,3 @@ If you want to learn how it works, follow [the instructions on my blog](http://w
 
 1. start the node server `node index.js`
 2. goto http://localhost:4040
-
-
-## Technology
-
-If you like fast itterations and state of the art technologies to build a meanful application, [come work with us](http://nepos.io/jobs/en.html).
