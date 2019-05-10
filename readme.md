@@ -6,8 +6,6 @@ If you have an AngularJS App with UI Router, accessible on http://localhost:8100
 
 Wow, thats useful for pixel perfect frontend implementations! Juhu.
 
-If you want to learn how it works, follow [the instructions on my blog](http://www.interaktionsdesigner.de/2015/pixelgenaue-design-umsetzung-mit-angularjs/).
-
 
 
 ### Install
